@@ -87,3 +87,24 @@ footer {
 */
 
 /* Write your CSS here */
+figure {
+  float: right;
+  width: 29%;
+  border-top-style: solid;
+  border-top-width: 3px;
+  border-top-color: #333;
+  border-bottom-style: solid;
+  border-bottom-width: 3px;
+  border-bottom-color: #333;
+}
+
+img {
+  margin-top: 5px;
+}
+
+figcaption {
+  font-style: italic;
+  font-size: .875rem;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
